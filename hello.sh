@@ -1,1 +1,1 @@
-echo "Welcome to Sameer.this is remote"
+echo "Welcome to Sam.this is remote"
